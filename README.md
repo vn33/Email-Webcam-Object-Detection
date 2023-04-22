@@ -1,0 +1,1 @@
+##This is a Python-based email-webcam-detection application that uses OpenCV to detect when someone enters a shop or store, and sends an email to the owner of the shop containing a photo of the person who entered.
